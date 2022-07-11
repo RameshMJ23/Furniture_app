@@ -1,16 +1,18 @@
-# furnitureui
+# Furniture app
 
-A new Flutter application.
+video of the app: https://youtube.com/shorts/lyDJdpaMnD8?feature=share
 
-## Getting Started
+Screenshots of app: 
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/93790564/178337097-7b842503-51a9-4baa-8751-b10991ea0fab.jpg" width="300" height="550"/>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://user-images.githubusercontent.com/93790564/178337109-b80de1dd-ee82-47df-80f4-ae340f03cbe4.jpg" width="300" height="550"/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/93790564/178337135-9adbd5e2-887d-4b77-83f6-78a8ac83f6e9.jpg" width="300" height="550"/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/93790564/178337119-31c63b75-ae88-40c6-bc00-ba0ae540fa21.jpg" width="300" height="550"/>
+
+<img src=https://user-images.githubusercontent.com/93790564/178337128-15416f09-cca8-48b1-9d5b-948520ec3b40.jpg" width="300" height="550"/>
+
+
+
